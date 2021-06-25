@@ -1,0 +1,7 @@
+C:\Users\mohda\source\repos\Quiz2\Quiz2\bin\Debug\Quiz2.exe.config
+C:\Users\mohda\source\repos\Quiz2\Quiz2\bin\Debug\Quiz2.exe
+C:\Users\mohda\source\repos\Quiz2\Quiz2\bin\Debug\Quiz2.pdb
+C:\Users\mohda\source\repos\Quiz2\Quiz2\obj\Debug\Quiz2.csprojAssemblyReference.cache
+C:\Users\mohda\source\repos\Quiz2\Quiz2\obj\Debug\Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\mohda\source\repos\Quiz2\Quiz2\obj\Debug\Quiz2.exe
+C:\Users\mohda\source\repos\Quiz2\Quiz2\obj\Debug\Quiz2.pdb

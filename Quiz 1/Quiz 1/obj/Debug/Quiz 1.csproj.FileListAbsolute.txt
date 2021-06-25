@@ -1,0 +1,7 @@
+C:\Users\mohda\source\repos\Quiz 1\Quiz 1\obj\Debug\Quiz 1.csprojAssemblyReference.cache
+C:\Users\mohda\source\repos\Quiz 1\Quiz 1\obj\Debug\Quiz 1.csproj.CoreCompileInputs.cache
+C:\Users\mohda\source\repos\Quiz 1\Quiz 1\bin\Debug\Quiz 1.exe.config
+C:\Users\mohda\source\repos\Quiz 1\Quiz 1\bin\Debug\Quiz 1.exe
+C:\Users\mohda\source\repos\Quiz 1\Quiz 1\bin\Debug\Quiz 1.pdb
+C:\Users\mohda\source\repos\Quiz 1\Quiz 1\obj\Debug\Quiz 1.exe
+C:\Users\mohda\source\repos\Quiz 1\Quiz 1\obj\Debug\Quiz 1.pdb
